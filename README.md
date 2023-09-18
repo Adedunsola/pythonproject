@@ -12,4 +12,4 @@ data/journal_entries: This folder contains the journal entries arranged by date
 3. Select one of the four options (create, view, search, or exit)
 4. All journal entries are saved in the 'data' directory
 
-
+#### Enjoy...
